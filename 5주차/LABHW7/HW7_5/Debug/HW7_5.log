@@ -1,0 +1,5 @@
+﻿  HW7_5.c
+C:\동덕여대\프논이\2021CData\5주차\LABHW7\HW7_5\HW7_5.c(5,22): warning C4101: 'remain' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\프논이\2021CData\5주차\LABHW7\HW7_5\HW7_5.c(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\프논이\2021CData\5주차\LABHW7\HW7_5\HW7_5.c(5,12): warning C4101: 'quotient' :참조되지 않은 지역 변수입니다.
+  HW7_5.vcxproj -> C:\동덕여대\프논이\2021CData\5주차\LABHW7\Debug\HW7_5.exe
