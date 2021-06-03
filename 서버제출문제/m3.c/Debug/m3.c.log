@@ -1,0 +1,3 @@
+﻿  m3.c
+C:\동덕여대\프논이\2021CData\서버제출문제\m3.c\m3.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  m3.c.vcxproj -> C:\동덕여대\프논이\2021CData\서버제출문제\Debug\m3.c.exe
