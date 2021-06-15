@@ -1,0 +1,5 @@
+﻿  HW9_6.c
+C:\동덕여대\프논이\2021CData\LABHW2\M1\HW9_6\HW9_6.c(6,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\프논이\2021CData\LABHW2\M1\HW9_6\HW9_6.c(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\프논이\2021CData\LABHW2\M1\HW9_6\HW9_6.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  HW9_6.vcxproj -> C:\동덕여대\프논이\2021CData\LABHW2\M1\Debug\HW9_6.exe
