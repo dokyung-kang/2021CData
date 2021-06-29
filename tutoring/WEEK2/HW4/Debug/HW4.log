@@ -1,0 +1,5 @@
+﻿  HW4-1.c
+C:\동덕여대\튜터링\WEEK2\HW4\HW4-1.c(5,11): warning C4101: 'column' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\튜터링\WEEK2\HW4\HW4-1.c(5,25): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\튜터링\WEEK2\HW4\HW4-1.c(5,6): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+  HW4.vcxproj -> C:\동덕여대\튜터링\WEEK2\Debug\HW4-1.exe

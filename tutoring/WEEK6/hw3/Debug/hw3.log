@@ -1,0 +1,3 @@
+﻿  hw3.c
+C:\동덕여대\튜터링\WEEK6\hw3\hw3.c(5,16): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  hw3.vcxproj -> C:\동덕여대\튜터링\WEEK6\Debug\hw3.exe

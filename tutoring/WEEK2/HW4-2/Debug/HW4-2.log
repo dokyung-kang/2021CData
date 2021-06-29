@@ -1,0 +1,4 @@
+﻿  HW4-2.c
+C:\동덕여대\튜터링\WEEK2\HW4-2\HW4-2.c(5,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\튜터링\WEEK2\HW4-2\HW4-2.c(5,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  HW4-2.vcxproj -> C:\동덕여대\튜터링\WEEK2\Debug\HW4-2.exe
