@@ -1,0 +1,4 @@
+﻿  m7.c
+C:\동덕여대\프논이\2021CData\2021CData\baekjoon\step7\m7\m7.c(6,16): warning C4101: 'temp2' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\프논이\2021CData\2021CData\baekjoon\step7\m7\m7.c(6,9): warning C4101: 'temp1' :참조되지 않은 지역 변수입니다.
+  m7.vcxproj -> C:\동덕여대\프논이\2021CData\2021CData\baekjoon\step7\Debug\m7.exe
