@@ -1,0 +1,3 @@
+﻿  challenge13a.c
+C:\동덕여대\프논이\2021CData\2021CData\Cstudy\challenge\challenge13a\challenge13a.c(8,7): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  challenge13a.vcxproj -> C:\동덕여대\프논이\2021CData\2021CData\Cstudy\challenge\Debug\challenge13a.exe
