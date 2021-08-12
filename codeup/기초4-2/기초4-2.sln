@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "빗금 친 사각형 출력하기", "빗금 친 사각형 출력하기\빗금 친 사각형 출력하기.vcxproj", "{939B22EE-2E05-4A56-AB87-050711AFD75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Debug|x64.ActiveCfg = Debug|x64
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Debug|x64.Build.0 = Debug|x64
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Debug|x86.ActiveCfg = Debug|Win32
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Debug|x86.Build.0 = Debug|Win32
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Release|x64.ActiveCfg = Release|x64
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Release|x64.Build.0 = Release|x64
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Release|x86.ActiveCfg = Release|Win32
+		{939B22EE-2E05-4A56-AB87-050711AFD75D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9EA69D-E04B-4556-98B7-E5F3E9BD658A}
+	EndGlobalSection
+EndGlobal
