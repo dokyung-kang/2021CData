@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(void)
 {
-	int i, j, n, m, temp;
+	int i, n, m, temp;
 	int num[10000001];
 
 	scanf("%d", &n);
