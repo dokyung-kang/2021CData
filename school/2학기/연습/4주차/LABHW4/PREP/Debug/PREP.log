@@ -1,0 +1,3 @@
+﻿  PREP.c
+C:\동덕여대\1학년2학기\컴프\연습\4주차\LABHW4\PREP\PREP.c(58,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  PREP.vcxproj -> C:\동덕여대\1학년2학기\컴프\연습\4주차\LABHW4\Debug\PREP.exe

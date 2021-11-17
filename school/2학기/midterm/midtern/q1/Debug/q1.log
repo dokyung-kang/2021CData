@@ -1,0 +1,4 @@
+﻿  q1.c
+C:\동덕여대\1학년2학기\컴프\midterm\midtern\q1\q1.c(32,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\1학년2학기\컴프\midterm\midtern\q1\q1.c(33,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  q1.vcxproj -> C:\동덕여대\1학년2학기\컴프\midterm\midtern\Debug\q1.exe

@@ -1,0 +1,3 @@
+﻿  Project04.c
+C:\동덕여대\1학년2학기\컴프\6주차\LABHW6\Project04\Project04.c(7,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Project04.vcxproj -> C:\동덕여대\1학년2학기\컴프\6주차\LABHW6\Debug\Project04.exe

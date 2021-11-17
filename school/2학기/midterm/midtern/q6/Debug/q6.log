@@ -1,0 +1,4 @@
+﻿  q6.c
+C:\동덕여대\1학년2학기\컴프\midterm\midtern\q6\q6.c(6,6): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+C:\동덕여대\1학년2학기\컴프\midterm\midtern\q6\q6.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  q6.vcxproj -> C:\동덕여대\1학년2학기\컴프\midterm\midtern\Debug\q6.exe

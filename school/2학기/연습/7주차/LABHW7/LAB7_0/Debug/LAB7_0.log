@@ -1,0 +1,11 @@
+﻿  LAB7_0.c
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(19,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(29,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(30,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(31,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(37,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(38,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\LAB7_0\LAB7_0.c(39,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+  LAB7_0.vcxproj -> C:\동덕여대\1학년2학기\컴프\연습\7주차\LABHW7\Debug\LAB7_0.exe
