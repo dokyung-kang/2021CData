@@ -1,0 +1,3 @@
+﻿  HW9_2.c
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_2\HW9_2.c(10,7): warning C4101: 'gender' :참조되지 않은 지역 변수입니다.
+  HW9_2.vcxproj -> C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\Debug\HW9_2.exe

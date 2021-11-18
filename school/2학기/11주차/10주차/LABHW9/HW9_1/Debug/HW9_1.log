@@ -1,0 +1,8 @@
+﻿  HW9_1.c
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(18,14): warning C4013: 'isalpha'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(20,13): warning C4013: 'isdigit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(31,13): warning C4013: 'isupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(32,31): warning C4013: 'tolower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(33,14): warning C4013: 'islower'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\HW9_1\HW9_1.c(34,31): warning C4013: 'toupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  HW9_1.vcxproj -> C:\동덕여대\1학년2학기\컴프\10주차\LABHW9\Debug\HW9_1.exe
